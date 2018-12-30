@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>coolbeans</id>
+    <version>2018.12</version>
+    <title>coolbeans (Install)</title>
+    <authors>Emilian Bold</authors>
+    <projectUrl>https://coolbeans.xyz</projectUrl>
+    <tags>coolbeans ide netbeans</tags>
+    <summary>Binary distribution of Apache NetBeans (incubating) IDE</summary>
+    <description>CoolBeans IDE 2018.12</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
