@@ -3,6 +3,7 @@
   <metadata>
     <id>coolbeans</id>
     <version>2018.12</version>
+    <packageSourceUrl>https://github.com/tusharjoshi/coolbeans-chocolatey</packageSourceUrl>
     <title>coolbeans (Install)</title>
     <authors>Emilian Bold</authors>
     <projectUrl>https://coolbeans.xyz</projectUrl>
