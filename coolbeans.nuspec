@@ -7,6 +7,7 @@
     <title>coolbeans (Install)</title>
     <authors>Emilian Bold</authors>
     <projectUrl>https://coolbeans.xyz</projectUrl>
+    <iconUrl>http://coolbeans.xyz/32@2x.png</iconUrl>
     <tags>coolbeans ide netbeans</tags>
     <summary>Binary distribution of Apache NetBeans (incubating) IDE</summary>
     <description>CoolBeans IDE 2018.12</description>
