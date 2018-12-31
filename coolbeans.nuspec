@@ -10,6 +10,10 @@
     <tags>coolbeans ide netbeans</tags>
     <summary>Binary distribution of Apache NetBeans (incubating) IDE</summary>
     <description>CoolBeans IDE 2018.12</description>
+    <docsUrl>https://coolbeans.xyz</docsUrl>
+    <mailingListUrl>mailto:emilian.bold@josekibold.ro</mailingListUrl>
+    <bugTrackerUrl>https://coolbeans.xyz</bugTrackerUrl>
+    <projectSourceUrl>https://coolbeans.xyz</projectSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
