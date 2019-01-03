@@ -14,7 +14,7 @@ This project assumes that Chocolatey is already installed and the `choco` comman
 choco pack
 ```
 
-## Testing local install
+## Testing local installation
 
 ```bash
 choco install coolbeans -s .
