@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>coolbeans</id>
-    <version>2018.12</version>
+    <version>2018.12.2</version>
     <packageSourceUrl>https://github.com/tusharjoshi/coolbeans-chocolatey</packageSourceUrl>
     <title>coolbeans (Install)</title>
     <authors>Emilian Bold</authors>
@@ -10,7 +10,7 @@
     <iconUrl>https://raw.githubusercontent.com/tusharjoshi/coolbeans-chocolatey/d9fca2b99b67c5ff81b3ab61206c42a906d5d3f7/coolbeans-icon.png</iconUrl>
     <tags>coolbeans ide netbeans</tags>
     <summary>Binary distribution of Apache NetBeans (incubating) IDE</summary>
-    <description>CoolBeans IDE 2018.12</description>
+    <description>CoolBeans IDE 2018.12.2</description>
     <docsUrl>https://coolbeans.xyz</docsUrl>
     <mailingListUrl>mailto:emilian.bold@josekibold.ro</mailingListUrl>
     <bugTrackerUrl>https://coolbeans.xyz</bugTrackerUrl>
