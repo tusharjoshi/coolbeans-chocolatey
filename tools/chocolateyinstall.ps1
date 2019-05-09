@@ -1,8 +1,8 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://amsterdam.download.coolbeans.xyz/download/CoolBeans-2018.12.exe'
-$url64      = 'https://amsterdam.download.coolbeans.xyz/download/CoolBeans-2018.12.exe'
+$url        = 'http://download.librebeans.org/download/CoolBeans-2018.12.2-x64.exe'
+$url64      = 'http://download.librebeans.org/download/CoolBeans-2018.12.2-x64.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -13,7 +13,7 @@ $packageArgs = @{
 
   softwareName  = 'coolbeans*'
 
-  checksum      = '95BB39BB3772497BB9222BBE7A9C74269AA49D6F02B42E6C4E25621212C54B0B'
+  checksum      = 'ad469cf2fe8e909e5e9c3c26e275d9e1d4552d527e5d63795165baf0d0459561'
   checksumType  = 'sha256'
 
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
